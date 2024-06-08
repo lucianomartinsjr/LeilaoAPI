@@ -12,7 +12,7 @@ Esta é uma API simples para gerenciar um sistema de leilão,para obtenção da 
 
 ## Pré-requisitos
 
-- [.NET 5 SDK](https://dotnet.microsoft.com/download)
+- [.NET 7 SDK](https://dotnet.microsoft.com/download)
 - [Postman](https://www.postman.com/downloads/) ou qualquer cliente de API REST para testar os endpoints
 
 ## Como Executar
